@@ -50,6 +50,9 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/heyananthu/heyananthu/output/snake.svg" alt="Snake animation" />
 
 ###
